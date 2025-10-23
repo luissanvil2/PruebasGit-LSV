@@ -1,1 +1,1 @@
-este es el archivo con error
+Este es el archivo con error
